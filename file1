@@ -1,1 +1,11 @@
 hello all
+html,
+        body {
+            height: 100%;
+            width: 100%;
+            padding: 0;
+            margin: 0;
+        }
+        @font-face{
+            font-family: "Segoe UI";
+            src: url('../fonts/segoeuil.ttf');
